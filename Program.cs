@@ -1,4 +1,6 @@
-﻿Dictionary<char, string> gradeMessages = new Dictionary<char, string>();
+﻿// I made this weirdly complex to try out new things btw
+
+Dictionary<char, string> gradeMessages = new Dictionary<char, string>();
 
 gradeMessages.Add('P', "Wow! That's impressive!");
 gradeMessages.Add('A', "Very nice!");
